@@ -17,7 +17,7 @@ This game is a simple implementation of the classic **Rock ✊, Paper ✋, Sciss
 1. Install Python → [Download Here](https://www.python.org/downloads/)  
 2. Clone this repo or download the file:  
    ```bash
-   git clone https://github.com/YourUsername/rock-paper-scissors.git
+   git clone https://github.com/deepikachowdary-1504/rock-paper-scissors.git
 **run the programm:**
 python rock_paper_scissors.py
 example output:
